@@ -1,10 +1,7 @@
-- 
-  group: "Main organizer"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
+-
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Nanyang Technology University", description: "", link: "http://www.ntu.edu.sg/Pages/home.aspx", imageUrl: "ntu.png"}
+    - {name: "National University of Singapore", description: "", link: "http://www.nus.edu.sg/", imageUrl: "nus.jpg"}
+    - {name: "Insitute of High Performance Computing, A*Star", description: "", link: "https://www.a-star.edu.sg/ihpc", imageUrl: "astar.png"}
+    - {name: "Huazhong University of Science and Technology", description: "", link: "http://english.hust.edu.cn/", imageUrl: "hust.jpg"}

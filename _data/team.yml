@@ -1,60 +1,54 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Hai"
+  surname: "Jin"
+  title: "Huazhong University of Science and Technology, China"
+  thumbnailUrl: haijin.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+  social:
+    - {name: "site", link: "http://grid.hust.edu.cn/hjin/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Hong"
+  surname: "Wan"
+  title: "Purdue University, USA"
+  thumbnailUrl: hongwan.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+  social:
+    - {name: "site", link: "https://web.ics.purdue.edu/~hwan/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Rick Goh Siow"
+  surname: "Mong"
+  title: "Institute of High Performance Computing, A*Star, Singapore"
+  thumbnailUrl: Rick-Goh.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+  social:
+    - {name: "site", link: "https://www.a-star.edu.sg/ihpc/People/tid/2"}
+- 
+  id: 3
+  name: "Jiang"
+  surname: "Xiao"
+  title: "Huazhong University of Science and Technology, China"
+  thumbnailUrl: jiangxiao.jpeg
+  subTeam: true
+  social:
+    - {name: "site", link: "http://grid.hust.edu.cn/jxiao/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Zengxiang"
+  surname: "Li"
+  title: "Institute of High Performance Computing, A*Star, Singapore"
+  thumbnailUrl: Zengxiang_Li.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  social:
+    - {name: "site", link: "https://www.a-star.edu.sg/ihpc/People/tid/431"}
+-
+  id: 5
+  name: "Siyuan"
+  surname: "Liu"
+  title: "Pennsylvania State University, USA"
+  thumbnailUrl: sxl.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "site", link: "https://php.smeal.psu.edu/smeal/dirbio/displayBio.php?t_user_id=sxl68"}
